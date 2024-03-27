@@ -1,0 +1,17 @@
+{
+  "name": "@aliyan0/atm-machine",
+  "version": "1.0.1",
+  "description": "A atm-machine with typescript, node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  }
+}
